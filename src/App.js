@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>안예진 React.js</p>
+        <p>Welcome React.js</p>
       </header>
     </div>
   );
